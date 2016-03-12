@@ -1,0 +1,1 @@
+seabee3-ros-pkg.git-example
